@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-21T20:44:16 SGT" name="Default suite" finished-at="2022-12-21T20:44:28 SGT" duration-ms="12646">
+    <groups>
+    </groups>
+    <test started-at="2022-12-21T20:44:16 SGT" name="Default test" finished-at="2022-12-21T20:44:28 SGT" duration-ms="12646">
+      <class name="testNgpackage.log4j">
+        <test-method signature="tutorial()[pri:0, instance:testNgpackage.log4j@2b91004a]" started-at="2022-12-21T20:44:16 SGT" name="tutorial" finished-at="2022-12-21T20:44:28 SGT" duration-ms="12575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tutorial -->
+      </class> <!-- testNgpackage.log4j -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
